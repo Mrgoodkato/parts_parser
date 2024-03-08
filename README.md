@@ -2,8 +2,6 @@
 
 This script allows conversion of downloaded parts in xlsx into the final parts upload format.
 
-This has been thougth in order to be able to easily convert the inventory of a file into a movable format that allows to save the inventory and re-upload into other accounts if necessary the parts that were originaly uploaded.
-
 To use this script, clone this repository to your local environment and run the app.py script.
 
 Move the file or files you need to convert into the files/ folder.
