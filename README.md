@@ -15,5 +15,6 @@ This script has 1 argument you can add after calling it using python, and its fo
 Be advised this file has to be in xlsx format and has to be a valid parts downloaded file gathered from the system.
 
 The file will be converted into a new file in the output folder of this project.
+**(BE ADVISED, if using for the first time, you'll need to create the output folder before using the script)**
 
 ![image](https://github.com/Mrgoodkato/parts_parser/assets/81311715/5a74c136-ffcb-4140-a965-d4475f5a8ac4)
