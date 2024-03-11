@@ -1,3 +1,6 @@
+**Dependencies:**
+You only need to install Pandas to use this script.
+
 <span style="font-size: 25px">**Instructions:**</span>
 
 This script allows conversion of downloaded parts in xlsx into the final parts upload format.
